@@ -2,7 +2,7 @@
 
 Welcome to my repos! Here you will find all of my fun projects. 
 
-SQL Devloper by day, husband and father by night. I am married to one of the most patient and wonderful women in the world. I have an awesome 7 Year old son and a fantastic 22 year old step son.
+SQL Devloper by day, husband and father by night. I am married to one of the most patient and wonderful women in the world. I have an awesome 7 Year old son and a fantastic 23 year old step son.
 
 Outside of tech, I have all sorts of varied interests. Fishing, camping, shooting, traveling, spending time with my family, playing board games and DnD, Geocaching, listening to podcasts. I just recently got a vertical electric smoker and have jumped into the world of smoking meat and BBQing. So while a geek, not totally geeky ;)
 
