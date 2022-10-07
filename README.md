@@ -15,6 +15,11 @@ If you have questions, you can contact me one of the following ways:
 * Mastodon: [https://mastodon.radio/@n8acl](https://mastodon.radio/@n8acl)
 * Discord: Ravendos#7364
 
+## Projects I have contributed to:
+
+* [CheerLights](https://github.com/cheerlights) - I wrote the Telegram and Discord Bots
+* [DVSwitch](https://github.com/DVSwitch) - I added a minor fix to one of the JSON files that define the P25 Talkgroups
+
 ## Profile Stats
 
 <a href="https://github.com/n8acl">
