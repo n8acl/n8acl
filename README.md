@@ -6,7 +6,7 @@ Most of my projects revolve around Ham Radio things, but there are a few that ar
 
 SQL Devloper by day, husband and father by night. I am married to one of the most patient and wonderful women in the world. I have an awesome 7 Year old son and a fantastic 23 year old step son.
 
-Outside of tech, I have all sorts of varied interests. Fishing, camping, shooting, traveling, spending time with my family, playing board games and DnD, Geocaching, listening to podcasts. I just recently got a vertical electric smoker and have jumped into the world of smoking meat and BBQing. So while a geek, not totally geeky ;)
+Outside of tech, I have all sorts of varied interests. Fishing, camping, shooting, traveling, spending time with my family, playing board games and DnD, Playing video games (7Days to Die and World of Warcraft mostly), Geocaching, listening to podcasts. I also enjoy the world of smoking meat and BBQing. So while a geek, not totally geeky ;)
 
 If you have questions, you can contact me one of the following ways:
 
