@@ -13,7 +13,6 @@ If you have questions, you can contact me one of the following ways:
 * Website: [https://www.qsl.net/n8acl](https://www.qsl.net/n8acl)
 * Tech Blog: [https://n8acl.github.io](https://n8acl.github.io)
 * Email: n8acl (remove this part) @qsl.net
-* Twitter: [https://www.twitter.com/n8acl](https://www.twitter.com/n8acl)
 * Mastodon: [https://mastodon.radio/@n8acl](https://mastodon.radio/@n8acl)
 * Discord: Ravendos#7364
 
