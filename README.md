@@ -14,7 +14,7 @@ If you have questions, you can contact me one of the following ways:
 * Tech Blog: [https://n8acl.github.io](https://n8acl.github.io)
 * Email: n8acl (remove this part) @qsl.net
 * Mastodon: [https://mastodon.radio/@n8acl](https://mastodon.radio/@n8acl)
-* Discord: Ravendos#7364
+* Discord: Ravendos
 
 ## Projects I have contributed to:
 
