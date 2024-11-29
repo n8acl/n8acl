@@ -14,12 +14,16 @@ If you have questions, you can contact me one of the following ways:
 * Tech Blog: [https://n8acl.github.io](https://n8acl.github.io)
 * Email: n8acl (remove this part) @qsl.net
 * Mastodon: [https://mastodon.radio/@n8acl](https://mastodon.radio/@n8acl)
+* Matrix: @ravendos:matrix.org
 * Discord: Ravendos
+
+Discord is the best way to reach me, but any of the others will work fine.
 
 ## Projects I have contributed to:
 
-* [CheerLights](https://github.com/cheerlights) - I wrote the Telegram and Discord Bots
+* [CheerLights](https://github.com/cheerlights) - I wrote the Telegram, Discord and Matrix Bots
 * [DVSwitch](https://github.com/DVSwitch) - I added a minor fix to one of the JSON files that define the P25 Talkgroups
+* PyOhio 2023 - Hamming it up! Using Python with Ham Radio Talk [https://github.com/n8acl/hammingitup_pyohio2023](https://github.com/n8acl/hammingitup_pyohio2023)
 
 ## Profile Stats
 
